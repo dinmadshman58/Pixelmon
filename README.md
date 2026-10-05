@@ -224,4 +224,4 @@ Pixelmon Reforged is available as a full free version, including all features an
 Ready to dive into the Pokémon world within Minecraft? **Download Pixelmon Reforged now and start your adventure!**
 
 ---
-**Last updated:** 2026-10-05 08:14:38 UTC
+**Last updated:** 2026-10-05 17:49:06 UTC
